@@ -23,7 +23,15 @@ Through this process, I transformed a simple, black-and-gray map into a visually
 
 ## Lessons Learned:
 
+Through this project, I gained a wealth of valuable insights and skills. First and foremost, I learned the significance of choosing the right map projection to effectively convey a story—in this case, the interconnectedness of the world's oceans through the Spilhaus projection. This exercise underscored the transformative power of projections in altering perspectives and highlighting specific features.
 
+Creating the layout taught me the importance of visual prioritization and the impact of thoughtful design elements like borders and frame adjustments. By duplicating and rotating map frames, I discovered techniques to maintain geographic continuity and avoid abrupt edges, enhancing the overall coherence of the map.
+
+Adding a vignette overlay and experimenting with color schemes further emphasized the role of visual aesthetics in map design. These elements not only made the map more attractive but also helped focus the viewer's attention on key features. This process highlighted how color choices and overlays can significantly enhance a map's readability and engagement.
+
+Finally, incorporating text, titles, and other details into the layout demonstrated the importance of clear communication in cartography. This project reinforced the need for meticulous attention to detail and creative design to transform a simple map into a compelling and informative visual story.
+
+Overall, this experience deepened my understanding of advanced GIS techniques, the art of visual hierarchy, and the critical role of design in effective map-making.
 
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
