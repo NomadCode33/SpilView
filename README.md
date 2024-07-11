@@ -7,7 +7,15 @@ A map showcasing an unconventional yet stunning projection of the world's oceans
 
 **Tech used:** ArcGIS Pro
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I got the appropriate dataset and the map opens up with a basic projection that is in black and gray colors in WGS84 coordinate system. The map has a cartoonish level of generalization which is done intentionally to show as much detail as possible without being too geographically detailed teh clutters and small-scale map. 
+
+First off is to change the map projection to better show the story of what I am conveying. The point is to show the grand interconnectiveness of the ocean in a "Spilhaus World Ocean Map in a Square." I zoomed to the full extent of the map and double-clicked Map to open the Map Properties dialog box. In the Coordinate Systems tab, I types Spilhaus in the search field, and after going through a few options clicked the Spilhaus Ocean Map. After applying the settings, the result shows an unfamiliar look of the world. The projection that I selected, as well with all projections, distorts some geographic proerties and maintain other, depending on the purpose of the map. The Spilhaus projection presents the world's oceans as a singular, uninterrupted body of water-which they really are.
+
+I then starting working on creating the layout that aims to visually prioritize oceans adn employ an attractive faded border to frame the ocean composition. In clicked the Insert tab on the ribbon and in the Project group, clicked the New Layout down arrow. At the bottom of the drop-down list, I chose the Custom Page Size. hen in the Layout Properties dialog box, changed the Page Units to Point. For Width and Height, I typed in 1000. The result is a new empty square layout like a fresh sheet of paper waiting for text and other map elements to be placed on it. To add the Spilhause map to the layout I went to teh Insert tab, in the Map Frames group, clicked the Map Frame down arrow and chose the thumbnail labeled Default Extent. I then dragged the sqaure on the layout that is smaller than the layout square. To remove the thin black border on the map frame, I went to the Properties by right-clicking the map frame. In the Element pane, I clicked the Display tab and under Border, changed the Symbol to 0 pt. I clciked teh Full Extent button to make the map be in full extent. I clciked the Map Frame twice and renamed it Center.
+
+
+
+
 
 ## Lessons Learned:
 
